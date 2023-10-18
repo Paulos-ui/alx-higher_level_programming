@@ -1,0 +1,29 @@
+# 0x0D. SQL - Introduction
+
+In this project, i learned about what database it and i majorly focus on relational database with the SQL component
+
+## Tasks
+------------------------------------
+
+* 0. Listing database
+* 1. Creating a database
+* 2. Delete a database
+* 3. List tables
+* 4. First table
+* 5. Full decription of a table
+* 6. List all in table
+* 7. First add
+* 8. Count 89
+* 9. Full creation
+* 10. List by best
+* 11. Select the best
+* 12. Cheating is bad
+* 13. Score too low
+* 14. Average
+* 15. Number by score
+* 16. Say by name
+* 17. Go to UTF8
+* 18. Temperatures #0
+* 19. Temperatures #1
+* 20. Temperature #2
+
